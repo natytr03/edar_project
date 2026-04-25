@@ -5,7 +5,7 @@ Primates (reference clade)
 - Homo sapiens (human): reference
 - Pan troglodytes (chimpanzee): ancestral EDAR allele and clostest living relative
 - Carlito syrichta (Philippine tarsier)
-- 
+-
 
 Non-Primate mammals
 
@@ -13,6 +13,7 @@ Non-Primate mammals
 - Eumetopias jubatus (Steller sea lion): reduced fur and modified whiskers
 - Loxodonta africana (African elephant): near-complete hair loss
 - Trichechus manatus (West Indian manatee): vibrissae-dominated integument with near-total hair reduction and aquatic adaptation
+-
 
 Birds
 
