@@ -1,0 +1,40 @@
+Species for EDAR analysis
+
+Primates (reference clade)
+
+- Homo sapiens (human): reference
+- Pan troglodytes (chimpanzee): ancestral EDAR allele and clostest living relative
+- Carlito syrichta (Philippine tarsier)
+- 
+
+Non-Primate mammals
+
+- Rousettus aegyptiacus (Egyptian fruit bat): reduced body hair
+- Eumetopias jubatus (Steller sea lion): reduced fur and modified whiskers
+- Loxodonta africana (African elephant): near-complete hair loss
+- Trichechus manatus (West Indian manatee): vibrissae-dominated integument with near-total hair reduction and aquatic adaptation
+
+Birds
+
+- Acanthisitta chloris (rifleman): 
+- Phaethon lepturus (White-tailed tropicbird): early-diverging neoavian lineage
+- Anser cygnoides (swan goose): independently domesticated in East Asia
+- Opisthocomus hoazin (hoatzin): unique foregut fermentation and chick wing claws
+- 
+
+Reptiles:
+
+- Alligator mississippiensis (American alligator): link reptilian and avians
+- Python bivittatus (Burmese python): limbless
+- Chrysemys picta (painted turtle)
+-
+
+Fish:
+
+- Acipenser ruthenus (sterlet)
+- Oncorhynchus clarkii lewisi (westslope cutthroat trout): scale variantions
+- Cyprinus carpio (common carp): Scale polymorphism in the context of domestication 
+- Sinocyclocheilus grahami (golden-line barbel): reduced scales and eyes
+- Scyliorhinus canicula (small-spotted catshark): outgroup
+- Petromyzon marinus (sea lamprey): scaless
+
