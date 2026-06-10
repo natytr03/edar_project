@@ -1,0 +1,30 @@
+PLINK v2.0.0-a.6.9LM 64-bit Intel (29 Jan 2025)
+Options in effect:
+  --freq
+  --keep data/AMR_samples.txt
+  --max-alleles 2
+  --out results/af_AMR
+  --set-all-var-ids @:#:$r:$a
+  --vcf data/edar_1kg_grch37.vcf.gz
+
+Hostname: NLinh
+Working directory: /home/nhatlinh/edar/popgen
+Start time: Mon Jun  1 21:50:24 2026
+
+Random number seed: 1780343424
+7622 MiB RAM detected, ~7050 available; reserving 3811 MiB for main workspace.
+Using up to 8 compute threads.
+--vcf: 12031 variants scanned.
+--vcf: results/af_AMR-temporary.pgen + results/af_AMR-temporary.pvar.zst +
+results/af_AMR-temporary.psam written.
+2504 samples (0 females, 0 males, 2504 ambiguous; 2504 founders) loaded from
+results/af_AMR-temporary.psam.
+11968 out of 12031 variants loaded from results/af_AMR-temporary.pvar.zst.
+Note: No phenotype data present.
+--keep: 347 samples remaining.
+347 samples (0 females, 0 males, 347 ambiguous; 347 founders) remaining after
+main filters.
+Calculating allele frequencies... done.
+--freq: Allele frequencies (founders only) written to results/af_AMR.afreq .
+
+End time: Mon Jun  1 21:50:25 2026
