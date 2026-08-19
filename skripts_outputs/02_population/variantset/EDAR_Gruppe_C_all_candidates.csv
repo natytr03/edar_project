@@ -1,0 +1,6 @@
+POS_GRCh37,ID_1kg,rsID,Protein,Consequence,r2_V370A,AF_EAS,AF_EUR,AF_AFR,Note,Group
+109513601,2:109513601:A:G,rs3827760,V370A,missense_variant,1.0,0.926,0.06,0.013,"Positivkontrolle — Kamberov 2013, Sabeti 2007",C
+109483295,2:109483295:C:T,rs4676213,.,intron_variant,0.896899,.,.,.,"LD-Partner V370A — Top 4 nach r², 1000G EAS Phase 3",C
+109451118,2:109451118:A:G,rs72627476,.,intron_variant,0.885791,.,.,.,"LD-Partner V370A — Top 4 nach r², 1000G EAS Phase 3",C
+109529701,2:109529701:G:A,rs12469095,.,intron_variant,0.788447,.,.,.,"LD-Partner V370A — Top 4 nach r², 1000G EAS Phase 3",C
+109362162,2:109362162:A:C,rs12620921,.,intron_variant,0.775934,.,.,.,"LD-Partner V370A — Top 4 nach r², 1000G EAS Phase 3",C

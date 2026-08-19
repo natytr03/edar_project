@@ -1,0 +1,37 @@
+rsID,Protein,Consequence,ClinVar,CHR,POS_GRCh38,POS_GRCh37,AF_EAS,AF_AFR,AF_EUR,AF_SAS,AF_AMR,AF_popmax,r2_V370A,Note,Group,af_source,AF_EAS_1000G_check,AF_AFR_1000G_check,AF_EUR_1000G_check,AF_SAS_1000G_check,AF_AMR_1000G_check,AF_EAS_diff,AF_AFR_diff,AF_EUR_diff,AF_SAS_diff,AF_AMR_diff,FST,phyloP,Protein_AM,protein_variant,am_pathogenicity,am_class
+rs2470612633,E433*,stop_gained,Pathogenic,2,108896957.0,109513413,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,5.519,E433*,,,
+rs2470612948,Y406*,stop_gained,Pathogenic,2,108897036.0,109513492,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,5.466,Y406*,,,
+rs121908452,R358*,stop_gained,Pathogenic,2,108897182.0,109513638,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,3.405,R358*,,,
+rs1696805876,K327*,stop_gained,Pathogenic,2,108906353.0,109522809,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,6.783,K327*,,,
+rs1432041144,E311*,stop_gained,Pathogenic,2,108907892.0,109524348,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,4.74,E311*,,,
+rs121908456,E354*,stop_gained,Pathogenic,2,108897194.0,109513650,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,7.487,E354*,,,
+rs199544410,C301*,stop_gained,Pathogenic,2,108907920.0,109524376,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,1.579,C301*,,,
+rs773132518,R25*,stop_gained,Pathogenic,2,108930221.0,109546677,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,0.615,R25*,,,
+rs2105390253,,splice_acceptor_variant,Pathogenic,2,108906369.0,109522825,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,6.566,,,,
+rs1553444895,,splice_donor_variant,Pathogenic,2,108906307.0,109522763,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,6.598,,,,
+rs1574368295,,splice_donor_variant,Pathogenic,2,108906306.0,109522762,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,7.881,,,,
+rs797044435,,splice_donor_variant,Pathogenic,2,108930963.0,109547419,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,4.575,,,,
+rs368841777,,splice_donor_variant,Pathogenic,2,108923367.0,109539823,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,7.204,,,,
+rs1553445945,,splice_donor_variant,Pathogenic,2,108912677.0,109529133,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,5.757,,,,
+rs797044437,,splice_donor_variant,Pathogenic,2,108910459.0,109526915,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,7.031,,,,
+rs773885029,W434G,missense_variant,Pathogenic,2,108896954.0,109513410,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,3.671,W434G,W434G,0.2709,likely_benign
+rs1696608702,I431T,missense_variant,Pathogenic,2,108896962.0,109513418,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,8.876,I431T,I431T,0.9445,likely_pathogenic
+rs886039564,R358Q,missense_variant,Pathogenic/Likely pathogenic,2,108897181.0,109513637,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,7.487,R358Q,R358Q,0.4242,ambiguous
+rs886039348,W374*,stop_gained,Pathogenic/Likely pathogenic,2,108897133.0,109513589,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,,W374*,,,
+rs550414401,A26V,missense_variant,Pathogenic/Likely pathogenic,2,108930217.0,109546673,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,7.089,A26V,A26V,0.2516,likely_benign
+rs121908450,R89H,missense_variant,Pathogenic/Likely pathogenic,2,108929288.0,109545744,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,7.397,R89H,R89H,0.7501,likely_pathogenic
+rs121908453,R420Q,missense_variant,Pathogenic/Likely pathogenic,2,108896995.0,109513451,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,5.783,R420Q,R420Q,0.9575,likely_pathogenic
+rs2470612697,C428R,missense_variant,Pathogenic/Likely pathogenic,2,108896972.0,109513428,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,8.963,C428R,C428R,0.9965,likely_pathogenic
+rs557166582,R98W,missense_variant,Pathogenic/Likely pathogenic,2,108929262.0,109545718,0.0,0.0,0.0,0.00102249,0.0,,,,A,assumed_absent_1000G,0.0,0.0,0.0,0.00102249,0.0,,,,,,0.0,5.998,R98W,R98W,0.7237,likely_pathogenic
+rs2470708774,Y136*,stop_gained,Likely pathogenic,2,108923402.0,109539858,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,2.722,Y136*,,,
+rs749688157,C31*,stop_gained,Likely pathogenic,2,108930201.0,109546657,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,-0.099,C31*,,,
+rs886041005,C428*,stop_gained,Likely pathogenic,2,108896970.0,109513426,0.0,0.0,0.0,0.0,0.0,,,,A,assumed_absent_1000G,,,,,,,,,,,,0.153,C428*,,,
+rs61761321,p.Met107Val,missense_variant,Conflicting classifications of pathogenicity,2,108929235.0,109545691,0.0838939630207173,0.0007326104909822,2.627029592217213e-05,0.0008233976681378,0.0002665422802692,0.0838939630207173,,,B,gnomAD_selection_criterion,0.0902778,0.00075643,0.0,0.00204499,0.0,0.0063838369792827,2.381950901780004e-05,2.627029592217213e-05,0.0012215923318622,0.0002665422802692,0.189103,0.57,M107V,M107V,0.054,likely_benign
+rs79648056,p.Ser274Ser,synonymous_variant,Benign/Likely benign,2,108908001.0,109524457,0.0,0.0682163922175665,3.739245420274189e-05,7.691631504922645e-05,0.0053542834267413,0.0682163922175665,,,B,gnomAD_selection_criterion,0.0,0.0824508,0.0,0.0,0.00432277,0.0,0.0142344077824335,3.739245420274189e-05,7.691631504922645e-05,0.0010315134267412,0.0170907,-3.074,S274S,,,
+rs114808659,p.Gly239Arg,missense_variant,Benign,2,108910887.0,109527343,0.0,0.0679170332453544,7.966587791797465e-05,8.78464444151623e-05,0.0056812502082569,0.0679170332453544,,,B,gnomAD_selection_criterion,0.0,0.0832073,0.0,0.0,0.00432277,0.0,0.0152902667546455,7.966587791797465e-05,8.78464444151623e-05,0.0013584802082569,0.0172512,-2.792,G239R,,,
+rs79798733,p.Val246Met,missense_variant,Benign,2,108910527.0,109526983,0.0,0.03331288507188,2.7144592457874985e-05,8.794494646351384e-05,0.0014502900580116,0.03331288507188,,,B,gnomAD_selection_criterion,0.0,0.0287443,0.0,0.0,0.0,0.0,0.00456858507188,2.7144592457874985e-05,8.794494646351384e-05,0.0014502900580116,0.00529193,6.718,V246M,V246M,0.1178,likely_benign
+rs3749099,p.Pro290Pro,synonymous_variant,Benign/Likely benign,2,108907953.0,109524409,0.0303665388388477,0.0047451482192365,0.005983101551708,0.0197434883823077,0.0050324945842359,0.0303665388388477,,,B,gnomAD_selection_criterion,0.0138889,0.00453858,0.00894632,0.0286299,0.00432277,0.0164776388388477,0.0002065682192364,0.002963218448292,0.0088864116176923,0.0007097245842359,0.0,-2.697,P290P,,,
+rs146567337,p.Ser380Arg,missense_variant,Conflicting classifications of pathogenicity,2,108897116.0,109513572,0.024027102928721,7.999360051195904e-05,5.932133008591424e-06,0.0004721746387314,6.664223118189997e-05,0.024027102928721,,,B,gnomAD_selection_criterion,,,,,,,,,,,0.0692257,7.697,S380R,S380R,0.9929,likely_pathogenic
+rs3827760,V370A,missense_variant,,2,,109513601,0.873016,0.00302572,0.0109344,0.0132924,0.391931,,1.0,"Positivkontrolle — Kamberov 2013, Sabeti 2007",C,1000G_Phase3_plink2,0.873016,0.00302572,0.0109344,0.0132924,0.391931,,,,,,0.803677,8.963,V370A,V370A,0.6212,likely_pathogenic
+rs4676213,.,intron_variant,,2,,109483295,0.859127,0.00302572,0.0109344,0.0143149,0.39049,,0.896899,"LD-Partner V370A — Top 4 nach r², 1000G EAS Phase 3",C,1000G_Phase3_plink2,0.859127,0.00302572,0.0109344,0.0143149,0.39049,,,,,,0.793854,-1.632,.,,,
+rs72627476,.,intron_variant,,2,,109451118,0.862103,0.00302572,0.0109344,0.0122699,0.387608,,0.885791,"LD-Partner V370A — Top 4 nach r², 1000G EAS Phase 3",C,1000G_Phase3_plink2,0.862103,0.00302572,0.0109344,0.0122699,0.387608,,,,,,0.797779,0.212,.,,,
