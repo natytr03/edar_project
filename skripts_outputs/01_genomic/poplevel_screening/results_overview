@@ -1,0 +1,29 @@
+GOAL: check whether the human EDAR V370A allele is also found as a variant in non-human hominoids (great-apes and gibbons) and
+Old-World monkey (Macaca mulatta), using population-level data (where available) and individual/reference genomes
+
+POPULATION-LEVEL RESULTS
+| Taxon                                    |            N | Result | Source                                                         |
+| ---------------------------------------- | ------------ | ------ | -------------------------------------------------------------- |
+| Gorilla gorilla (gorilla (wild))         |           48 | Valine | 96 chromosome copies, GAGP, individual + raw-read confirmation |
+| Pan troglodytes + P. paniscus (wild)     |          214 | Valine | ~426–430 chromosome copies, GAGP, individual confirmation      |
+| Pongo sp. (Sumatran + Bornean (wild))    |           25 | Valine | 50 chromosome copies, GAGP                                     |
+| Macaca mulatta                           | 3,399 called | Valine | mGAP, target region callable, no target variant detected       |
+
+SINGLE-GENOME RESULTS (HYLOBATIDAE)
+| Taxon                      |  N | Result     | Source                                                 |
+| -------------------------- | -- | ---------- | ------------------------------------------------------ |
+| Nomascus siki              |  1 | Valine     | NGDC assembly, single 100%-identity EDAR hit           |
+| Symphalangus syndactylus   |  1 | Valine     | NGDC ambiguity resolved by independent RefSeq assembly |
+| Hoolock leuconedys         |  1 | Unresolved | EDAR coding region absent from draft assembly          |
+| Hylobates pileatus         |  1 | Unresolved | Target codon not covered by assembly                   |
+
+REFERENCE SEQUNCES
+| Taxon                 | Result | Source                                          |
+| --------------------- | ------ | ----------------------------------------------- |
+| Homo sapiens          | Valine | Reference protein Q9UNE0                        |
+| Pan troglodytes       | Valine | 24-species alignment                            |
+| Gorilla gorilla       | Valine | 24-species alignment                            |
+| Pan paniscus          | Valine | Extended primate alignment                      |
+| Pongo abelii          | Valine | Extended primate alignment                      |
+| Nomascus leucogenys   | Valine | Extended primate alignment                      |
+| Macaca mulatta        | Valine | Extended primate alignment                      |
