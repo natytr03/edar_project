@@ -8,9 +8,9 @@ import matplotlib.gridspec as gridspec
 from Bio import SeqIO
 from Bio.Seq import Seq
 
-FEL_JSON = r"C:\Users\trann\Dokumente\Sommersemester 26\edar_project\data\results\species_list_edar_5.final_fel.json"
-MEME_JSON = r"C:\Users\trann\Dokumente\Sommersemester 26\edar_project\data\results\species_list_edar_5.final_meme.json"
-CODON_FASTA = r"C:\Users\trann\Dokumente\Sommersemester 26\edar_project\data\processed\species_list_edar_codon_5.final_aligned.fasta"
+FEL_JSON = r"data\results\species_list_edar_5.final_fel.json"
+MEME_JSON = r"data\results\species_list_edar_5.final_meme.json"
+CODON_FASTA = r"data\processed\species_list_edar_codon_5.final_aligned.fasta"
 
 HUMAN_KEYWORDS = ("homo_sapiens", "edar", "q9une0")
 
