@@ -1,0 +1,21 @@
+Alignment only run from human to shark, lamprey was already excluded at the beginning of the project.
+MEME rerun (after solving a mistake), so hit list is different with aa 3, 7, 224–229, 316, 151, 355
+
+MEME + DRIVING BRANCH WITH EVIDENCE BRANCH FACTOR
+| Site (aa pos.)              | Driving Branch with EBF                                           | Notes                                                                                           |
+| ----------------------------| ------------------------------------------------------------------| ------------------------------------------------------------------------------------------------|
+| 60, 64 (aa 3, 7)            | Node10: Elephant + Manatee (EBF 6.06 / 341)                       | strongest signal with both lineages show independent hair reduction                             |
+|                             |                                                                   |                                                                                                 |
+| 283, 286, 288 (aa 224–229)  | Neophocaena asiaeorientalis (finless porpoise) (EBF up to 65,803) | linker region between TNFR and TM domain                                                        |
+|                             |                                                                   |                                                                                                 |
+| 440 (aa 316)                | Columba livia (pigeon) (EBF 221)                                  | isolated single hit inside the Death Domain                                                     |
+|                             |                                                                   |                                                                                                 |
+| 209 (aa 151)                | Node24: turtle + python + bearded dragon + catshark (EBF 557)     | likely long-branch-attraction artifact, because Chondrichthyes cannot be sister to Reptilia     |
+|                             |                                                                   |                                                                                                 |
+| 480 (aa 355)                | Node32: zebrafish + common carp (EBF 32,089)                      | high EBF                                                                                        |
+
+aBSREL's independent branch-specific test:
+Node10 (Elephant + Manatee, p = 0.00041)
+Neophocaena asiaeorientalis (p < 0.00001)
+Anser cygnoides (swan goose, p < 0.00001)
+>> remain significant after Holm–Bonferroni correction
