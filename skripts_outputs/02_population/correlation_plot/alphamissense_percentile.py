@@ -5,8 +5,8 @@ from scipy.stats import percentileofscore
 OUTPUT_FILE = "alphamissense_overview_percentile.txt"
 sys.stdout = open(OUTPUT_FILE, "w", encoding="utf-8")
 
-AM_FILE = r"C:\Users\trann\Dokumente\Sommersemester 26\edar_project\data\raw\AlphaMissense_EDAR_Q9UNE0.tsv"
-VARIANTSET_FILE = r"C:\Users\trann\Dokumente\Sommersemester 26\edar_project\skripts_outputs\02_population\variantset\EDAR_Variant_Set_complete_final.csv"
+AM_FILE = r"data\raw\AlphaMissense_EDAR_Q9UNE0.tsv"
+VARIANTSET_FILE = r"skripts_outputs\02_population\variantset\EDAR_Variant_Set_complete_final.csv"
 
 cols = ["chr", "pos", "ref", "alt", "genome",
         "uniprot", "transcript", "aa_change",
