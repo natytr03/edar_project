@@ -1,0 +1,49 @@
+(2931, 10)
+    chr        pos ref  ... aa_change am_score       am_class
+0  chr2  108896911   G  ...     S448C   0.0951  likely_benign
+1  chr2  108896911   G  ...     S448F   0.1503  likely_benign
+2  chr2  108896911   G  ...     S448Y   0.1549  likely_benign
+3  chr2  108896912   A  ...     S448A   0.0673  likely_benign
+4  chr2  108896912   A  ...     S448P   0.0812  likely_benign
+
+[5 rows x 10 columns]
+count    2931.000000
+mean        0.435903
+std         0.351887
+min         0.032600
+25%         0.107850
+50%         0.290000
+75%         0.817500
+max         0.999700
+Name: am_score, dtype: float64
+
+
+            rsID Group  am_pathogenicity           am_class  phyloP
+15   rs773885029     A            0.2709      likely_benign   3.671
+16  rs1696608702     A            0.9445  likely_pathogenic   8.876
+17   rs886039564     A            0.4242          ambiguous   7.487
+19   rs550414401     A            0.2516      likely_benign   7.089
+20   rs121908450     A            0.7501  likely_pathogenic   7.397
+21   rs121908453     A            0.9575  likely_pathogenic   5.783
+22  rs2470612697     A            0.9965  likely_pathogenic   8.963
+23   rs557166582     A            0.7237  likely_pathogenic   5.998
+27    rs61761321     B            0.0540      likely_benign   0.570
+30    rs79798733     B            0.1178      likely_benign   6.718
+32   rs146567337     B            0.9929  likely_pathogenic   7.697
+33     rs3827760     C            0.6212  likely_pathogenic   8.963
+n = 12
+
+
+        rsID Group  am_pathogenicity  am_percentile          am_class  phyloP
+ rs773885029     A            0.2709      48.174684     likely_benign   3.671
+rs1696608702     A            0.9445      84.749232 likely_pathogenic   8.876
+ rs886039564     A            0.4242      57.011259         ambiguous   7.487
+ rs550414401     A            0.2516      46.434664     likely_benign   7.089
+ rs121908450     A            0.7501      71.784374 likely_pathogenic   7.397
+ rs121908453     A            0.9575      86.728079 likely_pathogenic   5.783
+rs2470612697     A            0.9965      96.963494 likely_pathogenic   8.963
+ rs557166582     A            0.7237      70.999659 likely_pathogenic   5.998
+  rs61761321     B            0.0540       1.057660     likely_benign   0.570
+  rs79798733     B            0.1178      27.260321     likely_benign   6.718
+ rs146567337     B            0.9929      94.916411 likely_pathogenic   7.697
+   rs3827760     C            0.6212      66.632549 likely_pathogenic   8.963
