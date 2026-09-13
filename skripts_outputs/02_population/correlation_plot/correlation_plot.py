@@ -3,8 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib.lines as mlines
 
 # parse all values needed for the plot
-df = pd.read_csv(
-    r"C:\Users\trann\Dokumente\Sommersemester 26\edar_project\skripts_outputs\02_population\variantset\EDAR_Variant_Set_complete_final.csv")
+df = pd.read_csv(r"skripts_outputs\02_population\variantset\EDAR_Variant_Set_complete_final.csv")
 df["FST"] = pd.to_numeric(df["FST"], errors="coerce")
 df["phyloP"] = pd.to_numeric(df["phyloP"], errors="coerce")
 df["am_pathogenicity"] = pd.to_numeric(df["am_pathogenicity"], errors="coerce")
