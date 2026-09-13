@@ -242,5 +242,5 @@ leg2 = [mlines.Line2D([0], [0], marker="o", color="w", markersize=8,
 
 ax2.legend(handles=leg2, fontsize=6, framealpha=0.9, fancybox=True, edgecolor="#CCC", loc="upper left")
 
-plt.savefig("Two_Correlation_Plots_v7.png", dpi=180, bbox_inches="tight")
+plt.savefig("Two_Correlation_Plots.png", dpi=180, bbox_inches="tight")
 print("\nSaved.")

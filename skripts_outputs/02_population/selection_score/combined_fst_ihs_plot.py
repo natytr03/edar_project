@@ -239,5 +239,5 @@ leg2 = [mpatches.Patch(color="#AAAAAA", alpha=0.6, label="|iHS| ≤ 2.0"),
 
 ax2.legend(handles=leg2, fontsize=8, loc="upper left", framealpha=0.92, fancybox=True, edgecolor="#CCC")
 
-plt.savefig("Combined_FST_iHS_v5.png", dpi=180, bbox_inches="tight", facecolor=fig.get_facecolor())
+plt.savefig("Combined_FST_iHS.png", dpi=180, bbox_inches="tight", facecolor=fig.get_facecolor())
 print("Saved.")
