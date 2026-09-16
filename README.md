@@ -1,9 +1,12 @@
 # EDAR Project
 
 ## Project Overview
-This project includes a preliminary project outline describing the planned analysis workflow. The outlined steps may be adjusted as the project progresses.
+This repository contains code, plots, and result visualization as part of the EDAR project.
 
-We want to investigate the evolution, functional constraint, and selection of the EDAR gene using an integrative approach by
-- Identifying conserved regions across species
-- Detecting selection signals in human populations
-- Assessing the structural relevance of key variants
+We investigate the evolutionary conservation, population differentiation, and potential functional relevance of genetic variation in the EDAR gene using an integrative comparative, population-genetic, and structural approach.
+
+The repository includes visualizations and analyses related to:
+- Comparative genomics and evolutionary conservation
+- Population genetics and selection signals
+- Structural context and folding stability of V370A
+- Supplementary and supporting result plots
