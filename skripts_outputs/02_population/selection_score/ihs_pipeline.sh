@@ -3,10 +3,10 @@
 set -e
 
 #define paths:
-PREFIX="edar/popgen"
+PROJECT_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/../../.." && pwd)"
 
-INPUTDIR="$HOME/$PREFIX/data"
-WORKDIR="$HOME/$PREFIX/results"
+INPUTDIR="$PROJECT_ROOT/data"
+WORKDIR="$PROJECT_ROOT/skripts_outputs/02_population/selection_score"
 
 # iput files:
 VCF_ALL="$INPUTDIR/ALL.chr2.phase3_shapeit2_mvncall_integrated_v5b.20130502.genotypes.vcf.gz"
