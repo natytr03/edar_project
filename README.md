@@ -10,3 +10,7 @@ The repository includes visualizations and analyses related to:
 - Population genetics and selection signals
 - Structural context and folding stability of V370A
 - Supplementary and supporting result plots
+
+
+Notes:
+Analysis scripts: Some scripts contain project-relative paths and require adjustment of local paths and installation of external software before execution.
