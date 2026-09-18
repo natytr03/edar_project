@@ -13,4 +13,5 @@ The repository includes visualizations and analyses related to:
 - Structural context and folding stability of V370A
 - Supplementary and supporting result plots
 
+**Reproducibility**:The code and scripts provided in this repository support the reproducibility of the results presented in the thesis.
 **Note:** Some analysis scripts contain project-relative paths and require adjustment of local paths and installation of the required external software before execution.
