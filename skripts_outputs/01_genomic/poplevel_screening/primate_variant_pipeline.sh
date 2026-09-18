@@ -40,7 +40,7 @@ download() {
 
 #check first human for correct mapping (in GRCh37/38, with liftover cross-check)
 human_coordinates_check() {
-    python3 - "$RSID" > stage1_human_coords.json <<'PYEOF'
+    python3 - "$RSID" > human_coords.json <<'PYEOF'
 import sys, json, requests
 
 rsid = sys.argv[1]
@@ -69,7 +69,7 @@ PYEOF
 import json
 from pyliftover import LiftOver
 
-with open("stage1_human_coords.json") as f:
+with open("human_coords.json") as f:
     coords = json.load(f)
 
 lo = LiftOver("hg19", "hg38")
@@ -81,7 +81,7 @@ print(f"Liftover cross-check: Ensembl GRCh38={coords['grch38_pos']}, "
       f"liftover={lifted_pos38} -> {'OK' if match else 'MISMATCH - INVESTIGATE'}")
 PYEOF
 
-  GRCH38_POS=$(python3 -c "import json; print(json.load(open('stage1_human_coords.json'))['grch38_pos'])")
+  GRCH38_POS=$(python3 -c "import json; print(json.load(open('human_coords.json'))['grch38_pos'])")
   log "Human target coordinate: ${GREAT_APE_CHROM}:${GRCH38_POS} (GRCh38)"
   export GRCH38_POS
 
