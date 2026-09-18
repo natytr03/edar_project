@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+#how to use: ./run_wt_vs_mutant.sh <wt_pdb> <mut_pdb> <position> [chain] [output_name]
+#in my case: ./run_wt_vs_mutant.sh AF-Q9UNE0-F1-model_v6.pdb EDAR_V370A_model.pdb 370
+
+
 set -euo pipefail
 
 WT_PDB="${1:?Usage: $0 <wt_pdb> <mut_pdb> <position> [chain] [output_name]}"
@@ -10,7 +14,7 @@ OUT_NAME="${5:-pos${POSITION}}"
 
 #setting default parameters for my analysis
 RADII="${RADII:-5 8 10}"
-DOMAINS="${DOMAINS:-24-182:Extrazellulaer 183-205:Transmembran 206-343:Linker 344-435:Todesdomaene}"
+DOMAINS="${DOMAINS:-24-182:Extracellular 183-205:Transmembrane 206-343:Linker 344-435:Death-Domain}"
 SEQ_NEAR_CUTOFF="${SEQ_NEAR_CUTOFF:-8}"
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
